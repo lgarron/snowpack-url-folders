@@ -1,0 +1,6 @@
+{
+  "name": "snowpack-url-folders",
+  "dependencies": {
+    "snowpack": "^3.5.5"
+  }
+}
